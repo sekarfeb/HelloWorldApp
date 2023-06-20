@@ -1,0 +1,7 @@
+D:\gnanasekar\github\HelloWorldApp\bin\Debug\net6.0\publish\HelloWorldApp.exe
+D:\gnanasekar\github\HelloWorldApp\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\gnanasekar\github\HelloWorldApp\bin\Debug\net6.0\publish\appsettings.json
+D:\gnanasekar\github\HelloWorldApp\bin\Debug\net6.0\publish\HelloWorldApp.dll
+D:\gnanasekar\github\HelloWorldApp\bin\Debug\net6.0\publish\HelloWorldApp.deps.json
+D:\gnanasekar\github\HelloWorldApp\bin\Debug\net6.0\publish\HelloWorldApp.runtimeconfig.json
+D:\gnanasekar\github\HelloWorldApp\bin\Debug\net6.0\publish\HelloWorldApp.pdb
